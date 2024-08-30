@@ -1,0 +1,9 @@
+
+# Virtual environment
+venv/
+
+# System Files
+.DS_Store
+
+# IDEs
+.vscode/
